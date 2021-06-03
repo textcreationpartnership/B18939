@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties charge sent to all the judges of England</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18939</idno><idno type="EEBO-CITATION">12265414</idno>
+  <idno type="VID">197370</idno>
+  <idno type="EEBO-PROQUEST">2240953539</idno>
+  
+            <idno type="STC">Wing C2156</idno>
+            <idno type="OCLC">12265414</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties charge sent to all the judges of England</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 26, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="topical_term">Justice, Administration of --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197370:1"/>
+            <p>THE KINGS MAIESTIES CHARGE SENT TO ALL THE JUDGES OF ENGLAND, To be published in their respective Circuits, By His Maiesties speciall Command.</p>
+            <p>London, Printed for <hi>Laurence Blaiklock, Iuly</hi> 26. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197370:2"/>
+            <pb n="1" facs="tcp:197370:2"/>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Rusty and well beloved, We greet you well. We call to mind that in former times the constant custome was, by the mouth of the Lord Keeper for the time being, at the Court of Star-chamber, in the end of Tri<g ref="char:EOLhyphen"/>nity Terme, to put the Judges of Assise (shortly after to undertake their severall Circuits) in minde of such things as were then thought necessary for the present, for the good government of the Kingdome. This course in Our judgement We doe well approve of, That although We want the opportunity, which We and Our Predecessors then had, of communicating Our thoughts to Our Judges, for the good of Our People, yet We doe still retaine the same care for the safety and prosperity of Our good Subjects. And much more, by how much the distempers and distractions of the pre<g ref="char:EOLhyphen"/>sent times, unhappily fallen, have given us more occa<g ref="char:EOLhyphen"/>sion. We have therefore thought it fit, to supply the de<g ref="char:EOLhyphen"/>fect by these Our Letters; wherein, besides the generall care of Our justice, committed to Vs by God, and by Vs
+<pb n="2" facs="tcp:197370:3"/>delegated to Our Judges by Our severall Commissions, We recommend unto you in your Circuits, as We shall do to the rest of your Brethren in their severall Circuits, these particulars following.</p>
+            <p>First, that you take care, by all the best meanes you can, to suppresse Popery in all those Counties whither you are to go, by putting the Lawes made against them in due execution: And that you take like care to give a stop to the over-hasty growth of Anabaptisme, and other Schismes, as farre as by the good Lawes of the Land you may; and to punish the Delinquents with an e<g ref="char:EOLhyphen"/>quall hand, and those specially of either sort whom you shall discover to bee seditious stirrers and mo<g ref="char:EOLhyphen"/>vers of others to any Acts of disobedience to us, and our government; And that in your Charge, and otherwise, as you shall have sit opportunity, you assure our good Subjects in our name, and in the word of a King, who calls God to witnesse, that by his gracious assistance we are constantly resolved to maintaine the true Protestant Religion, established by Law in this Church of <hi>England,</hi> in the purity thereof, without de<g ref="char:EOLhyphen"/>clining either to the right hand or to the left, as wee found it at our accesse to the Crown, and as it was maintained in the happy times of Queene <hi>Elizabeth,</hi> and King <hi>Iames</hi> our deare Father, both of happy me<g ref="char:EOLhyphen"/>mory, and therein both to live and die.</p>
+            <p>Secondly, You shall let Our People of those Counties know, That, according to Our Kingly duty and Oath, We are also constantly resolved to maintain the Lawes of this Our Kingdome; and by, and according to them
+<pb n="3" facs="tcp:197370:3"/>to governe Our Subjects, and not by any Arbitrary power, whatsoever the Malevolent Spirits of any ill affected to Our Person or Government, have suggested, or shall suggest to the contrary. And that We shall also main<g ref="char:EOLhyphen"/>taine the just Priviledges of Parliament, as far as ever Our Predecessors have done, and as far as may stand with that justice which We owe to Our Crowne, and the ho<g ref="char:EOLhyphen"/>nour thereof: But that We may not, nor will admit of any such unwarranted power, in either, or both Houses of Parliament, which in some things hath been lately usur<g ref="char:EOLhyphen"/>ped, not onely without, but against Our Royall Consent and Command. And We require and command you, as there shall be just occasion offered, in a legall way, that you take care to preserve Our just right in these cases.</p>
+            <p>Thirdly, We charge you, as you tender the peace of this Kingdom, in the Government whereof, according to the Lawes, you Our Judges of the Law have a principall part under Vs, that you take care for suppressing of all Insurrections, if any such should happen, and of all Riots and unlawfull Assemblies under any pretence whatsoever, not warranted by the Lawes of this Land; and whoso<g ref="char:EOLhyphen"/>ever shall transgresse therein, that you let them know that they must expect that punishment which by the Law may be inflicted upon them, and at your hands We shall look for such an account herein, within you Cir<g ref="char:EOLhyphen"/>cuit, as becometh the quality of the place wherein you serve Vs.</p>
+            <p>Fourthly, because the distempers of the present times, unhappily stirred up &amp; fomen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by some, under specious, but unjust pretences, &amp; probable to stirre up loose &amp; un<g ref="char:EOLhyphen"/>governed
+<pb n="4" facs="tcp:197370:4"/>people, under hope of impunity as farre as they dare to make a prey of Our good Subjects, We straitly charge and command you to take the best order you can in those Counties, That Rogues, V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bonds, and other disorde<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people may bee <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, dealt with and punished according to the Lawes, whereby the good and quiet people of our K<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may be secured, and the wicked and licentious may <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> suppressed: and Wee charge and command you to <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in charge in all the Counties whither you are <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Commissions, that Watches and Wards be stratily kept <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all Parishes and places convenient, whereby the Lawes made against such disorders may be put in due execution.</p>
+            <p>Fiftly and lastly, you shall let Our people of those Counties know from Vs, and by Our command, that if they shall professe unto Vs, or unto you in Our stead, any thing wherein they hold themselves grieved, in an humble and sitting way, and shall desire a just Reforma<g ref="char:EOLhyphen"/>tion or reliefe, We shall give a gracious eare unto them, and with all convenience returne them such an answer, as shall give them cause to thank Vs for Our Justice and Fa<g ref="char:EOLhyphen"/>vour: And when you shall have published Our cleare in<g ref="char:EOLhyphen"/>tentions to Our people in these things, lest at the first hearing they should not so fully apprehend Our sense therein, you shall deliver a copy of these Our letters to the Fore-man of the Grand-Jury, and to any other, if any one shall desire copies of these Our letters for their bet<g ref="char:EOLhyphen"/>ter information; And to the end that Our services in your Circuit may not suffer through the absence of Our learned Counsell, Our Will and Command is, that
+<pb n="5" facs="tcp:197370:4"/>you assign in every place of your Sessions some of the ablest Lawyers who ride that Circuit to be of Counsell for Vs, to assist in such Pleas of the Crown, that may bee most necessary for Our service in the execution and punishment of notorious Delinquents.</p>
+            <p>Of all these things We shall expect that good account from you, as We shall from the rest of your Brethren Our Judges, to whom Wee have also written to the like pur<g ref="char:EOLhyphen"/>pose, of whose fidelity and good affections Wee are confident as becommeth Vs to look for from you, and for you to render to Vs, wherein you have so great a trust committed,</p>
+            <closer>
+               <dateline>Given at Our Court at Yorke, <date>4 <hi>Iuly,</hi> 1642.</date>
+               </dateline>
+               <salute>
+                  <hi>To Our trusty and welbeloved the Iudge or Iudges of Assize for Our Count<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es of</hi> Kent, Surrey, Sussex, Hartford, and Essex.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
